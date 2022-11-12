@@ -20,9 +20,6 @@
 - name: CSS3
   weight: 4
 
-- name: SASS
-  weight: 4
-
 - name: Javascript
   weight: 3
 
