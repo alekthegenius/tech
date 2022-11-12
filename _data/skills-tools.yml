@@ -11,7 +11,7 @@
 - name: Bash
   weight: 3
 
-- name: Brave / Safari / Firefox DevTools
+- name: Brave DevTools
   weight: 4
 
 - name: npm
