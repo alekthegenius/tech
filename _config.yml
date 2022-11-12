@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description:Hi, My name is Alek. On the weekends, you'll catch me tinkering with my Raspberry Pis, rehearsing Bach on my Guitar, or designing the future with Fusion 360.
+about_me_description: Hi, My name is Alek. On the weekends, you'll catch me tinkering with my Raspberry Pis, rehearsing Bach on my Guitar, or designing the future with Fusion 360.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -42,7 +42,7 @@ about_me_description:Hi, My name is Alek. On the weekends, you'll catch me tinke
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: Fields of Expertise
 
 # TIMELINE SECTION
 # show_timeline_card:
