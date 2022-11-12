@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: If you have questions, or are interested in hiring me, email me at alekvasek@icloud.com
+contact_description: Contact me at alekvasek@icloud.com
 
 # GITHUB-METADATA
 # Set this to your forked repository
