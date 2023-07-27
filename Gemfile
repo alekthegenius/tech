@@ -5,4 +5,4 @@ gem "github-pages"
 gem "jekyll"
 gem "jekyll-github-metadata"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 2.2.8"
