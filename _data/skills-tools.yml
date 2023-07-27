@@ -19,3 +19,9 @@
 
 - name: VS Code
   weight: 4
+
+- name: Jupyter Notebook
+  weight: 4
+
+- name: Anaconda
+  weight: 4
